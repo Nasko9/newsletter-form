@@ -1,0 +1,14 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 25px;
+}
+
+.content-header{
+    font-size: 44px
+}
+
+.content-paragraph{
+    width: 300px;
+}

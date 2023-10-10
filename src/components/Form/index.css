@@ -2,7 +2,16 @@
   background-color: hsl(0, 0%, 100%);
   border-radius: 30px;
   font-size: 16px;
-  /* Temp */
-  width: 925px;
-  height: 640px;
+  color: hsl(234, 29%, 20%);
+  padding: 24px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.content-container{
+  padding: 0 41px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }

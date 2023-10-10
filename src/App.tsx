@@ -1,5 +1,13 @@
+// Components
+import Form from "./components/Form";
+import Layout from "./components/Layout";
+
 function App() {
-  return <>test</>;
+  return (
+    <Layout>
+      <Form />
+    </Layout>
+  );
 }
 
 export default App;

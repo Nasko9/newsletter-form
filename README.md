@@ -9,10 +9,6 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ### Built with
 
-- Vite
-- React
-- CSS
-
 - [Vite](https://vitejs.dev/)
 - [React](https://react.dev/)
 

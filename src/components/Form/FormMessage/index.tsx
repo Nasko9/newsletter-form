@@ -1,7 +1,7 @@
 import ListItem from './ListItem'
 import './index.css'
 
-export default function FormContent() {
+export default function FormMessage() {
   return (
     <div className='content'>
         <h1 className='content-header'>Stay updated!</h1>

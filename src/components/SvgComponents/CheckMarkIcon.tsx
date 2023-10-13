@@ -1,6 +1,10 @@
-export default function CheckMarkIcon() {
+interface ICheckMarkIcon {
+  size: string;
+}
+
+export default function CheckMarkIcon({size}: ICheckMarkIcon) {
   return (
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 64 64">
+    <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBox="0 0 64 64">
         <defs>
             <linearGradient id="checkmark" x1="100%" x2="0%" y1="0%" y2="100%"><stop offset="0%" stopColor="#FF6A3A"/>
             <stop offset="100%" stopColor="#FF527B"/>

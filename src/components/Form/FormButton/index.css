@@ -1,0 +1,13 @@
+.form-button{
+  background-color: hsl(234, 29%, 20%);
+  color: hsl(0, 0%, 100%);
+  width: 350px;
+  height: 56px;
+  border-radius: 8px;
+  border: none;
+  font-weight: 700;
+}
+
+.form-button:hover {
+  background: linear-gradient(90deg,#FF527B, #FF6A3A);
+}

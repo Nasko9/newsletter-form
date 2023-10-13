@@ -12,7 +12,7 @@ interface IListItem {
 export default function ListItem({text}:IListItem) {
   return (
     <div className='listItem-container' >
-      <CheckMarkIcon />
+      <CheckMarkIcon size='24' />
       <p>{text}</p>
     </div>
   )

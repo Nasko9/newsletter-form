@@ -4,13 +4,15 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ### Links
 
-- Solution URL: <!-- [Add solution URL here](https://your-solution-url.com) -->
-- Live Site URL: <!-- [Add live site URL here](https://your-live-site-url.com) -->
+- Solution URL: [Add solution URL here]()
+- Live Site URL: [Add live site URL here](https://nasko-newsletter-form.netlifyapp/)
 
 ### Built with
 
 - [Vite](https://vitejs.dev/)
 - [React](https://react.dev/)
+- [React Hook Form](https://react-hook-form.com/)
+- CSS
 
 ## Author
 

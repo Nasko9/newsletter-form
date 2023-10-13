@@ -5,7 +5,7 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-using-react-and-css-8o_GjbIsPL)
-- Live Site URL: [Live site URL](https://nasko-newsletter-form.netlifyapp/)
+- Live Site URL: [Live site URL](https://nasko-newsletter-form.netlify.app/)
 
 ### Built with
 

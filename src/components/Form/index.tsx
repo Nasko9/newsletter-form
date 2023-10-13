@@ -15,8 +15,8 @@ interface FormData {
 };
 
 export default function Form() {
-  const [isModalOpen, setIsModalOpen] = useState<boolean>(true);
-  const [email, setEmail] = useState<string>("milosnaskovic17@mail.com");
+  const [isModalOpen, setIsModalOpen] = useState<boolean>(false);
+  const [email, setEmail] = useState<string>("");
 
   const { handleSubmit, control, formState } = useForm<FormData>();
 
